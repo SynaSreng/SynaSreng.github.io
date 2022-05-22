@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Syna Sreng"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Researcher at King Mongkut's Institute of Technology Ladkrabang"
+description              : &description "Postdoctoral Researcher"
 url                      : https://SynaSreng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SynaSreng.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Syna Sreng"
   avatar           : "profile.png"
-  bio              : "Researcher at King Mongkut's Institute of Technology Ladkrabang, Expert in Computer Vision, Machine Learning and Deep Learning"
+  bio              : "Postdoctoral researcher at King Mongkut's Institute of Technology Ladkrabang, Expert in Computer Vision, Machine Learning and Deep Learning"
   location         : "Bangkok, Thailand"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=X5qQpFoAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Syna-Sreng"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1000-6233"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
