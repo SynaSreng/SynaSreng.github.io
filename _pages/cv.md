@@ -11,12 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. Degree in Electrical and Computer Engineering
-  King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand (2015-2019)
-* M.Eng. Degree in Computing Engineering, 
-  International college, King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand (2011-2013)
-* Engineering Degree in Electrical and Energy Engineering
-  Institute of Technology of Cambodia, Phnom Penh, Cambodia (2006-2011)
+* Ph.D. Degree in Electrical and Computer Engineering at King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand (2015-2019)
+* M.Eng. Degree in Computing Engineering at International college, King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand (2011-2013)
+* Engineering Degree in Electrical and Energy Engineering at Institute of Technology of Cambodia, Phnom Penh, Cambodia (2006-2011)
 
 Awards
 ======
@@ -39,24 +36,21 @@ Work experience
   * Intenship at BRC Group, Cambodia
   * Project: Huawei DBS3900 System Configuration   
 
-* Telecommunication Engineer 
-  BRC Group, Cambodia (July-November, 2011)
+* Telecommunication Engineer at BRC Group, Cambodia (July-November, 2011)
   
-* Electrical Engineer 
-  Electricity of Cambodia (EDC), Cambodia (June 2014-August 2019)
+* Electrical Engineer at Electricity of Cambodia (EDC), Cambodia (June 2014-August 2019)
 
-* A volunteer Reviewer 
-  Journal of Australasian Physical and Sciences in Medicine (2020)
+* A volunteer Reviewer for Journal of Australasian Physical and Sciences in Medicine (2020)
 
-* Invited lecturer (Online Lecture: Machine Learning and Computer Vision) 
-  Institute of Technology of Cambodia (September 15-16, 2021)
+* Invited lecturer at Institute of Technology of Cambodia (September 15-16, 2021)
+  (Online Lecture: Machine Learning and Computer Vision) 
 
 Skills
 ======
 * Programming Skills
   * Matlab
   * Python: Data Scientist with Python Track
-    Online course from DataCamp: 23 Courses, 6 projects and 3 skill assessments
+    (Online course from DataCamp: 23 Courses, 6 projects and 3 skill assessments)
 * Language Skills
   * Khmer: Mother tongue
   * English: Very good
