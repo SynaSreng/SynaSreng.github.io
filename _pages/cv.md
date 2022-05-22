@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+Personal information 
+======
+* Name: Syna Sreng
+* Sex: Male
+* Date of birth: March 10th, 1988
+* Nationality: Cambodian
+* Email: srengsina@gmail.com
+
 Education
 ======
 * Ph.D. Degree in Electrical and Computer Engineering at King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand (2015-2019)
