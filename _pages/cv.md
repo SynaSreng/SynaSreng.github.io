@@ -12,26 +12,29 @@ redirect_from:
 Personal information 
 ======
 * Name: Syna Sreng
-* Sex: Male
-* Date of birth: March 10th, 1988
 * Nationality: Cambodian
 * Email: srengsina@gmail.com
 
 Education
 ======
-* Ph.D. Degree in Electrical and Computer Engineering at King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand (2015-2019)
-* M.Eng. Degree in Computing Engineering at International college, King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand (2011-2013)
-* Engineering Degree in Electrical and Energy Engineering at Institute of Technology of Cambodia, Phnom Penh, Cambodia (2006-2011)
+* Ph.D. Degree in Electrical and Computer Engineering 
+  * School of Engineering, [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/), 2019
+* M.Eng. Degree in Computing Engineering
+  * International college, [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/), 2013
+* Engineering Degree in Electrical and Energy Engineering
+  * Faculty of Engineering, [Institute of Technology of Cambodia](https://www.itc.edu.kh/), 2011
 
 Awards
 ======
-* Fully-funded scholarship for Master degree from AUN-Seed Net, JICA, 2011 - 2013          
-* Fully-funded scholarship for Ph.D. degree from AUN-Seed Net, JICA, 2015 - 2018
+* Fully-funded scholarship for Master degree from [AUN-Seed Net, JICA](https://seed-net.org/), 2011 - 2013          
+* Fully-funded scholarship for Ph.D. degree from [AUN-Seed Net, JICA](https://seed-net.org/), 2015 - 2018
 
 Work experience
 ======
 * Postdoctoral research (Aug 2019 - present)
-  * Project1: Deep Learning for Optic Disc Segmentation and Glaucoma Diagnosis on Fundus Images  
+  * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
+  * Duties Included: Design and implement independent research, and assist advisor to supervise undergraduate and graduate students 
+  * Project1: Deep Learning for Optic Disc Segmentation and Glaucoma Diagnosis on Fundus Images 
   * Project2: Diagnosis of Multi-class eye diseases classification using ensemble deep learning on Fundus image
   
 * Graduate research in Ph.D degree (Jan 2015 - Apr 2019):
