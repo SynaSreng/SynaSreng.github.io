@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-You can also find my articles on [Google Scholar](https://scholar.google.co.th/citations?hl=en&user=3Bi3itoAAAAJ&vi ew_op=list_works&sortby=pubdate)<br/>
+You can also find my articles on [Google Scholar](https://scholar.google.co.th/citations?hl=en&user=X5qQpFoAAAAJ)<br/>
 
 ## Peer-Reviewed Journals
 [Ensemble Deep Learning for the Detection of COVID-19 in Unbalanced Chest X-ray Dataset](https://doi.org/10.3390/app112210528)\
