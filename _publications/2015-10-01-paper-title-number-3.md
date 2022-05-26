@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Ensemble Deep Learning for the Detection of COVID-19 in Unbalanced Chest X-ray Dataset"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Khin Yadanar Win, Noppadol Maneerat, Kazuhiko Hamamoto and Syna Sreng, Applied Sciences, 2021, 11(22), p.10528.'
 date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: '(https://doi.org/10.3390/app112210528)'
+citation: 'Win, K.Y.; Maneerat, N.; Sreng, S.; Hamamoto, K. Ensemble Deep Learning for the Detection of COVID-19 in Unbalanced Chest X-ray Dataset. Appl. Sci. 2021, 11, 10528'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Khin Yadanar Win, Noppadol Maneerat, Kazuhiko Hamamoto and Syna Sreng, Applied Sciences, 2021, 11(22), p.10528.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://www.mdpi.com/2076-3417/11/22/10528)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
