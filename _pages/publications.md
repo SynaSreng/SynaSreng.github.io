@@ -32,29 +32,29 @@ Download [here](https://www.ascspublications.org/product/automatic-diabetic-reti
 
 ## International Conference Proceedings 
 [Classification of Cotton Wool Spots Using Principal Components Analysis and Support Vector Machine](https://ieeexplore.ieee.org/document/8609962)\
-Syna Sreng, Noppadol Maneerat, Khin Yadanar Win, Kazuhiko Hamamoto, Ronakorn Panjaphongse, “,” 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018.\
+Syna Sreng, Noppadol Maneerat, Khin Yadanar Win, Kazuhiko Hamamoto, Ronakorn Panjaphongse, 2018 11th Biomedical Engineering International Conference (BMEiCON), Nov 21-24, Chaing Mai, Thailand.\
 Download [here](https://ieeexplore.ieee.org/document/8609962)
 
 [Suitable Supervised Machine Learning Techniques For Malignant Mesothelioma Diagnosis](https://ieeexplore.ieee.org/document/8609935/)\
-Khin Yadanar Win, Noppadol Maneerat, Somsak Choomchuay, Syna Sreng, Kazuhiko HAMAMOTO, 2018 11th Biomedical Engineering International Conference (BMEiCON); 11/2018.\
+Khin Yadanar Win, Noppadol Maneerat, Somsak Choomchuay, Syna Sreng, Kazuhiko HAMAMOTO, 2018 11th Biomedical Engineering International Conference (BMEiCON), Nov 21-24, Chaing Mai, Thailand.\
 Download [here](https://ieeexplore.ieee.org/document/8609935/) <br/>
 
 [Primary screening of diabetic retinopathy based on integrating morphological operation and support vector machine](https://ieeexplore.ieee.org/document/8279750)\
-Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, “,” 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS); 11/2017.\
+Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS), pp. 250-254, IEEE, November, 2017.\
 Download [here](https://ieeexplore.ieee.org/document/8279750)<br/>
 
 [Automated microaneurysms detection in fundus images using image segmentation](https://ieeexplore.ieee.org/document/7904926)\
-Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, “,” 2017 International Conference on Digital Arts, Media and Technology (ICDAMT); 01/2017.\
+Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, 2017 International Conference on Digital Arts, Media and Technology (ICDAMT), pp. 19-23, IEEE, March, 2017.\
 Download [here](https://ieeexplore.ieee.org/document/7904926)
 
 [Automatic hemorrhages detection based on fundus images](https://ieeexplore.ieee.org/document/7408951)\
-Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, “,” The 7th International Conference on Information Technology and Electrical Engineering (ICITEE 2015).\
+Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, The 7th International Conference on Information Technology and Electrical Engineering, pp. 253-257, IEEE, October, 2015.\
 Download [here](https://ieeexplore.ieee.org/document/7408951)
 
 [Automatic Exudate Extraction for Early Detection of Diabetic Retinopathy](https://ieeexplore.ieee.org/document/6676206)\
-Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, “,” The 5th International Conference on Information Technology and Electrical Engineering (ICITEE 2013).\ 
+Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, The 5th International Conference on Information Technology and Electrical Engineering, October 7-8, 2013, Yogyakarta, Indonesia.\ 
 Download [here](https://ieeexplore.ieee.org/document/6676206) 
 
 [Feature Extraction from Retinal Fundus Image for Early Detection of Diabetic Retinopathy](https://ieeexplore.ieee.org/document/6669015)\
-Syna Sreng, Jun-Ichi Takada, Noppadol Maneerat, Don Isarakorn, Ruttikorn Varakulsiripunth, Bundit Pasaya, Ronakorn Panjaphongse, “,” 2013 IEEE Region 10 Humanitarian Technology Conference.\ 
+Syna Sreng, Jun-Ichi Takada, Noppadol Maneerat, Don Isarakorn, Ruttikorn Varakulsiripunth, Bundit Pasaya, Ronakorn Panjaphongse, 2013 IEEE Region 10 Humanitarian Technology Conference,pp. 69-72, August 26-29, Sendai, Japan.\ 
 Download [here](https://ieeexplore.ieee.org/document/6669015) 
