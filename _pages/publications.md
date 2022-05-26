@@ -40,19 +40,19 @@ Khin Yadanar Win, Noppadol Maneerat, Somsak Choomchuay, Syna Sreng, Kazuhiko HAM
 Download [here](https://ieeexplore.ieee.org/document/8609935/) <br/>
 
 [Primary screening of diabetic retinopathy based on integrating morphological operation and support vector machine](https://ieeexplore.ieee.org/document/8279750)\
-Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS), pp. 250-254, IEEE, November, 2017.\
+Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, 2017 International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS), pp. 250-254, November 24-26, 2017, Okinawa, Japan.\
 Download [here](https://ieeexplore.ieee.org/document/8279750)<br/>
 
 [Automated microaneurysms detection in fundus images using image segmentation](https://ieeexplore.ieee.org/document/7904926)\
-Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, 2017 International Conference on Digital Arts, Media and Technology (ICDAMT), pp. 19-23, IEEE, March, 2017.\
+Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto, 2017 International Conference on Digital Arts, Media and Technology (ICDAMT), pp. 19-23, , March 1-4, 2017, Chaing Mai, Thailand.\
 Download [here](https://ieeexplore.ieee.org/document/7904926)<br/>
 
 [Automatic hemorrhages detection based on fundus images](https://ieeexplore.ieee.org/document/7408951)\
-Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, The 7th International Conference on Information Technology and Electrical Engineering, pp. 253-257, IEEE, October, 2015.\
+Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, 2015 International Conference on Information Technology and Electrical Engineering, pp. 253-257, October 29-30, 2015, Chaing Mai, Thailand.\
 Download [here](https://ieeexplore.ieee.org/document/7408951)<br/>
 
 [Automatic Exudate Extraction for Early Detection of Diabetic Retinopathy](https://ieeexplore.ieee.org/document/6676206)\
-Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, The 5th International Conference on Information Technology and Electrical Engineering, October 7-8, 2013, Yogyakarta, Indonesia.\
+Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, 2013 International Conference on Information Technology and Electrical Engineering, October 7-8, 2013, Yogyakarta, Indonesia.\
 Download [here](https://ieeexplore.ieee.org/document/6676206)<br/> 
 
 [Feature Extraction from Retinal Fundus Image for Early Detection of Diabetic Retinopathy](https://ieeexplore.ieee.org/document/6669015)\
