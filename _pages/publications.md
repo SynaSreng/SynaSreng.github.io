@@ -19,7 +19,7 @@ Syna Sreng, Noppadol Maneerat, Kazuhiko Hamamoto and Win, Khin Yadanar Win, Appl
 Download [here](https://doi.org/10.3390/app10144916)<br/>
 
 [Cotton Wool Spots Detection in Diabetic Retinopathy Based on Adaptive Thresholding and Ant Colony Optimization Coupling Support Vector Machine](https://doi.org/10.1002/tee.22878)\
-Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto,Ronakorn Panjaphongse, IEEJ Trans. TEEE C, Vol. 14, No.6, 2019.\
+Syna Sreng, Noppadol Maneerat,Kazuhiko Hamamoto,Ronakorn Panjaphongse, IEEJ Trans. TEEE C, 14(6), 2019.\
 Download [here](https://doi.org/10.1002/tee.22878)<br/>
 
 [Automated Diabetic Retinopathy Screening System Using Hybrid Simulated Annealing and Ensemble Bagging Classifier](https://doi.org/10.3390/app8071198)\
