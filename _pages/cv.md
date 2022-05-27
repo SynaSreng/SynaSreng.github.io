@@ -17,7 +17,7 @@ Personal information
 
 Summary
 ======
-<p align="justify">Computer vision researcher with more than 6 years experience in development of accurate algorithms to automatically detect diseases on different types of medical images such as retinal fundus image, x-rays images, and microscope images. Skilled in machine learning, medical image analysis, computer vision, deep learning, and research. Strong research professional with a demonstrated history of working in the higher education industry - PhD focused in Electrical and Computer Engineering from King Mongkut's Institute of Technology Ladkrabang.</p> 
+<p align="justify">Syna Sreng received his engineering degree in Electrical and Energy Engineering (option: Electronic Automatic and Telecommunication) from Institute of Technology of Cambodia, Phnom Penh, Cambodia in 2011, and received M.Eng. and Ph.D. degrees in Computer and Electrical Engineering from King Mongkut’s Institute of Technology Ladkrabang (KMITL), Bangkok, Thailand in 2013 and 2019 respectively. He has joined Computer Lab(II), led by Asst. Prof. Dr. Noppadol Maneerat, since 2012 as a research student. His research interests are in the area of image processing, computer vision, and machine learning, especially the application of medical image processing. His research outcomes include 6 journal papers and 7 conference proceedings various topics in development of accurate algorithms to automatedly detect diseases on different types of medical images such as retinal images, x-ray images, and microscope images (See in [publications](https://synasreng.github.io/publications/) ) . He is currently a postdoctoral fellow in the laboratory of professor Noppadol Maneerat at KMITL, Bangkok, Thailand.</p> 
 
 Education
 ======
@@ -35,7 +35,7 @@ Awards
 
 Work experience
 ======
-* Postdoctoral research (Aug 2019 - present)
+* Postdoctoral research (Aug 2019 - present):
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Duties Included: 
     * Design and implement independent research on multi-class classification of ocular diseases
@@ -49,24 +49,24 @@ Work experience
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Research on image segmentation for diabetic retinopathy lesions detection   
 
-* Telecommunication Engineer at Boral Corporation Co., Ltd, Cambodia (March-November, 2011)
+* Telecommunication Engineer at Boral Corporation Co., Ltd, Cambodia (March-November, 2011):
   * Duties Included:
     * Installation and configuration of Huawei DBS3900 System 
     * Study and design the location of GSM antenas and Microwaves (AutoCAD drawing)  
     * Document preparation 
   
-* Electrical Engineer at Electricity of Cambodia (EDC), Cambodia (June 2014-August 2019)
+* Electrical Engineer at Electricity of Cambodia (EDC), Cambodia (June 2014-August 2019):
   * Duties Included:
     * Preparation and revision of electrical specification for medium voltage equipments  
     * Testing and commissioning of all electrical equipments 
     * Document preparation and project planning
 
-* A volunteer Reviewer (2020)
+* A volunteer Reviewer (2020):
   * [Journal of Australasian Physical and Sciences in Medicine](https://portal.issn.org/resource/ISSN/0158-9938)
 
-* Invited lecturer (September 15-16, 2021)
+* Invited lecturer (September 15-16, 2021):
   * [Institute of Technology of Cambodia](https://www.itc.edu.kh/)
-  * Online Lecture: Machine Learning and Computer Vision
+  * Visual Lecture: [Machine Learning and Computer Vision](https://synasreng.github.io/teaching/)
 
 Projects
 ======
@@ -100,8 +100,4 @@ Skills
 Publications
 ======
   See in [link](https://synasreng.github.io/publications/) 
-  
-Teaching
-======
-  See in [link](https://synasreng.github.io/teaching/)
   
