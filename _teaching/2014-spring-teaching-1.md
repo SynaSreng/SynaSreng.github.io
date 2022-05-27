@@ -8,6 +8,5 @@ Network Engineering, [Institute of Technology of Cambodia](https://www.itc.edu.k
 date: 2021-08-15
 location: "Phnom Penh, Cambodia"
 ---
-
 Online Lecture: Machine Learning and Computer Vision
 
