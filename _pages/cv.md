@@ -50,13 +50,15 @@ Work experience
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Research on image segmentation for diabetic retinopathy lesions detection   
 
-* Telecommunication Engineer at Boral Corporation Co., Ltd, Cambodia (March-November, 2011):
+* Telecommunication Engineer (March-November, 2011):
+  * Boral Corporation Co., Ltd, Cambodia 
   * Duties Included:
-    * Installation and configuration of Huawei DBS3900 System 
-    * Study and design the location of GSM antenas and Microwaves (AutoCAD drawing)  
+    * Study on Configuration of Huawei DBS3900 System 
+    * Study and design the location of GSM Antenas and Microwaves (AutoCAD drawing)  
     * Document preparation 
   
-* Electrical Engineer at Electricity of Cambodia (EDC), Cambodia (June 2014-August 2019):
+* Electrical Engineer (June 2014-August 2019):
+  * [Electricity of Cambodia (EDC), Cambodia](https://www.edc.com.kh/)
   * Duties Included:
     * Preparation and revision of electrical specification for medium voltage equipments  
     * Testing and commissioning of all electrical equipments 
@@ -71,7 +73,7 @@ Work experience
 
 Projects
 ======
-* Medical Image Analysis using image segmentation and machine learning
+* Medical Image Analysis using Image Segmentation and Machine Learning
   * Detection of Diabetic Retinopathy Lesions on Fundus Images
     * Exudates detection in fundus images using image segmentation (2012-2013)
     * Hemorrages detection in fundus images using image segmentation (2015-2016)
@@ -79,11 +81,11 @@ Projects
     * Cotton Wool Spots detection using image segmentatin and machine learning (2017-2018)
     * Classification of diabetic retinopathy using machine learning (2017-2018)
     * Grading of diabetic retinopathy using deep learning (2018)
-  * Optic Disc Segmentation and Glaucoma Diagnosis using deep learning on Fundus Images (2019-2020)
-  * Diagnosis of Multi-class eye diseases classification using ensemble deep learning on Fundus image (2021-present)
-  * Detection of Infectious Diases on Chest X-rays
+  * Optic Disc Segmentation and Glaucoma Diagnosis using Deep Learning on Fundus Images (2019-2020)
+  * Diagnosis of Multi-class Eye diseases classification using Ensemble Deep Learning on Fundus Images (2021-present)
+  * Detection of Infectious Diseases on Chest X-rays
     * AI for detection of Tuberculosis, 2019 - Present
-    * COVID-19 detection using Deep learning, 2021-Present
+    * COVID-19 detection using deep learning, 2021-Present
 
 Skills
 ======
