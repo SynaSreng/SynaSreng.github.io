@@ -1,12 +1,11 @@
 ---
-title: "Invited Lecturer"
+title: "Machine Learning and Computer Vision"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/Online-lecture1
 venue: "Department of Telecommunication and
 Network Engineering, [Institute of Technology of Cambodia](https://www.itc.edu.kh/)"
-date: 2021-08-15
+date: September 15-16, 2021
 location: "Phnom Penh, Cambodia"
 ---
-Online Lecture: Machine Learning and Computer Vision
 
