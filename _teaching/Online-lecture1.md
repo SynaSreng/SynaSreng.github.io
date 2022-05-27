@@ -8,4 +8,4 @@ Network Engineering"
 date: 2021-09-15
 location: "Phnom Penh, Cambodia"
 ---
-Visual lecture: September 15-16, 2021
+
