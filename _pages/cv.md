@@ -98,7 +98,7 @@ Skills
   * Thai: basic 
 * Machine Learning
 * Computer vision
-* Research
+
 
 Publications
 ======
