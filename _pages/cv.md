@@ -54,7 +54,7 @@ Work experience
   * Boral Corporation Co., Ltd, Cambodia 
   * Duties Included:
     * Study on Configuration of Huawei DBS3900 System 
-    * Study and design the location of GSM Antenas and Microwaves (AutoCAD drawing)  
+    * Study and design location of GSM Antennas and Microwaves (AutoCAD drawing)  
     * Document preparation 
   
 * Electrical Engineer (June 2014-August 2019):
