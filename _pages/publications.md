@@ -52,9 +52,9 @@ Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjap
 Download [here](https://ieeexplore.ieee.org/document/7408951)<br/>
 
 [Automatic Exudate Extraction for Early Detection of Diabetic Retinopathy](https://ieeexplore.ieee.org/document/6676206)\
-Syna Sreng, Noppadol Maneerat, Don Isarakorn, Kazuhiko Hamamoto, Ronakorn Panjaphongse, 2013 International Conference on Information Technology and Electrical Engineering, October 7-8, 2013, Yogyakarta, Indonesia.\
+Syna Sreng, Jun-Ichi Takada, Noppadol Maneerat, Don Isarakorn, Ruttikorn Varakulsiripunth, Bundit Pasaya, Ronakorn Panjaphongse, 2013 International Conference on Information Technology and Electrical Engineering, October 7-8, 2013, Yogyakarta, Indonesia.\
 Download [here](https://ieeexplore.ieee.org/document/6676206)<br/> 
 
 [Feature Extraction from Retinal Fundus Image for Early Detection of Diabetic Retinopathy](https://ieeexplore.ieee.org/document/6669015)\
-Syna Sreng, Jun-Ichi Takada, Noppadol Maneerat, Don Isarakorn, Ruttikorn Varakulsiripunth, Bundit Pasaya, Ronakorn Panjaphongse, 2013 IEEE Region 10 Humanitarian Technology Conference, pp. 69-72, August 26-29, Sendai, Japan.\
+Syna Sreng, Jun-Ichi Takada, Noppadol Maneerat, Don Isarakorn, Bundit Pasaya, Ronakorn Panjaphongse, Ruttikorn Varakulsiripunth, 2013 IEEE Region 10 Humanitarian Technology Conference, pp. 69-72, August 26-29, Sendai, Japan.\
 Download [here](https://ieeexplore.ieee.org/document/6669015)<br/> 
