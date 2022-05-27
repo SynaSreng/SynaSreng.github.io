@@ -101,10 +101,6 @@ Publications
 ======
   See in [link](https://synasreng.github.io/publications/) 
   
-Talks
-======
-  See in [link](https://synasreng.github.io/talks/)
-  
 Teaching
 ======
   See in [link](https://synasreng.github.io/teaching/)
