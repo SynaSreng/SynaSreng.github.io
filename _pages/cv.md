@@ -45,7 +45,7 @@ Work experience
   
 * Graduate research in Ph.D degree (Jan 2015 - Apr 2019):
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
-  * Research on machine learning and deep learning for classification and grading of diabetic retinopathy lesions  
+  * Research & develop machine learning and deep learning models for classification and grading of diabetic retinopathy lesions  
 
 * Graduate research in master degree (Dec 2011 - Dec 2013):
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
@@ -54,15 +54,16 @@ Work experience
 * Telecommunication Engineer (March-November, 2011):
   * Boral Corporation Co., Ltd, Cambodia 
   * Duties Included:
-    * Study on Configuration of Huawei DBS3900 System 
+    * Study and work on Configuration of Huawei DBS3900 System 
     * Study and design location of GSM Antennas and Microwaves (AutoCAD drawing)  
     * Document preparation 
   
 * Electrical Engineer (June 2014-August 2019):
   * [Electricity of Cambodia (EDC), Cambodia](https://www.edc.com.kh/)
   * Duties Included:
-    * Preparation and revision of electrical specification for medium voltage equipments  
-    * Testing and commissioning of all electrical equipments 
+    * Work with procurement teams to evaluate technical proposals submitted by the consultant firms for grid modernization on transmission and distribution system   
+    * Preparation and revision of electrical specification for medium voltage equipment  
+    * Testing and commissioning of electrical equipments 
     * Document preparation and project planning
 
 * A volunteer Reviewer (2020):
@@ -76,17 +77,17 @@ Projects
 ======
 * Medical Image Analysis using Image Segmentation and Machine Learning
   * Detection of Diabetic Retinopathy Lesions on Fundus Images
-    * Exudates detection in fundus images using image segmentation (2012-2013)
-    * Hemorrages detection in fundus images using image segmentation (2015-2016)
-    * Microaneurysms detection in fundus images using image segmentation (2016-2017)
-    * Cotton Wool Spots detection using image segmentatin and machine learning (2017-2018)
-    * Classification of diabetic retinopathy using machine learning (2017-2018)
-    * Grading of diabetic retinopathy using deep learning (2018)
-  * Optic Disc Segmentation and Glaucoma Diagnosis using Deep Learning on Fundus Images (2019-2020)
-  * Diagnosis of Multi-class Eye diseases classification using Ensemble Deep Learning on Fundus Images (2021-present)
+    * Exudates detection in fundus images using image segmentation, 2012-2013
+    * Hemorrages detection in fundus images using image segmentation, 2015-2016
+    * Microaneurysms detection in fundus images using image segmentation, 2016-2017
+    * Cotton Wool Spots detection using image segmentatin and machine learning, 2017-2018
+    * Classification of diabetic retinopathy using machine learning, 2017-2018
+    * Grading of diabetic retinopathy using deep learning, 2018
+  * Optic Disc Segmentation and Glaucoma Diagnosis using Deep Learning on Fundus Images, 2019-2020
+  * Diagnosis of Multi-class Eye Diseases Classification using Ensemble Deep Learning on Fundus Images, 2021 - Present
   * Detection of Infectious Diseases on Chest X-rays
     * AI for detection of Tuberculosis, 2019 - Present
-    * COVID-19 detection using deep learning, 2021-Present
+    * COVID-19 detection using deep learning, 2021 - Present
 
 Skills
 ======
@@ -97,9 +98,8 @@ Skills
   * Khmer: Mother tongue
   * English: Very good
   * Thai: basic 
-* Machine Learning
-* Computer vision
-
+* Strong analytical skills with a demonstrated history of working in the higher education industry 
+* Experience in development and implementation of machine learning, deep learning and computer vision frameworks for various medical image processing projects. 
 
 Publications
 ======
