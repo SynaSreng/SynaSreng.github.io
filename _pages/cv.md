@@ -58,7 +58,7 @@ Work experience
     * Study and design location of GSM Antennas and Microwaves (AutoCAD drawing)  
     * Document preparation 
   
-* Electrical Engineer (June 2014-August 2019):
+* Electrical Engineer (June 2014-December 2014):
   * [Electricity of Cambodia (EDC), Cambodia](https://www.edc.com.kh/)
   * Duties Included:
     * Work with procurement teams to evaluate technical proposals submitted by the consultant firms for grid modernization on transmission and distribution system   
