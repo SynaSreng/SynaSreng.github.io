@@ -14,7 +14,7 @@ Personal information
 * Name: Syna Sreng
 * Nationality: Cambodian
 * Email: srengsina@gmail.com
-* Mobile: (66)61-865-0252
+* Mobile: (+66)61-865-0252
 
 Biography
 ======
@@ -29,8 +29,10 @@ Education
 
 Awards
 ======
-* Fully-Funded Master Degree Scholarship [AUN-Seed Net, JICA](https://seed-net.org/), 2011 - 2013          
+* Fully-Funded Master Degree Scholarship [AUN-Seed Net, JICA](https://seed-net.org/), 2011 - 2013  
+  * Sandwich Ph.D. program under the joint supervision of professors from KMITL and Tokai university        
 * Fully-Funded Ph.D. Scholarship [AUN-Seed Net, JICA](https://seed-net.org/), 2015 - 2018
+  * Graduate degree scholarship at International College, KMITL
 
 Work experience
 ======
@@ -57,7 +59,7 @@ Work experience
     * Study and design location of GSM Antennas and Microwaves (AutoCAD drawing)  
     * Document preparation 
 
-PROFESSIONAL ACTIVITIES
+Professional Activities
 ======
 * Reviewer (Sept 2020):
   * Journal: [Australasian Physical and Sciences in Medicine](https://portal.issn.org/resource/ISSN/0158-9938)
