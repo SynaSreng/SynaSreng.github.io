@@ -23,7 +23,7 @@ Biography
 Education
 ======
 
-* Ph.D. Degree in Electrical and Computer Engineering 
+* Ph.D. Degree in Electrical Engineering 
   * School of Engineering, [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/), 2019 
 * M.Eng. Degree in Computing Engineering
   * International college, [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/), 2013
@@ -37,13 +37,13 @@ Awards
 
 Work experience
 ======
-* Postdoctoral research (Aug 2019 - present):
+* Postdoctoral research (June 2019 - present):
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Duties Included: 
     * Design and implement independent research on multi-class classification of ocular diseases
     * Assist advisor to supervise undergraduate and graduate students 
   
-* Graduate research in Ph.D degree (Jan 2015 - Apr 2019):
+* Graduate research in Ph.D degree (Jan 2015 - Dec 2018):
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Research & develop machine learning and deep learning models for classification and grading of diabetic retinopathy lesions  
 
@@ -51,55 +51,62 @@ Work experience
   * [King Mongkut’s Institute of Technology Ladkrabang](https://www.kmitl.ac.th/)
   * Research on image segmentation for diabetic retinopathy lesions detection   
 
-* Telecommunication Engineer (March-November, 2011):
-  * Boral Corporation Co., Ltd, Cambodia 
-  * Duties Included:
-    * Study and work on Configuration of Huawei DBS3900 System 
-    * Study and design location of GSM Antennas and Microwaves (AutoCAD drawing)  
-    * Document preparation 
-  
-* Electrical Engineer (June 2014-December 2014):
+* Electrical Engineer (Jan 2014 - Dec 2014):
   * [Electricity of Cambodia (EDC), Cambodia](https://www.edc.com.kh/)
   * Duties Included:
     * Work with procurement teams to evaluate technical proposals submitted by the consultant firms for grid modernization on transmission and distribution system   
     * Preparation and revision of electrical specification for medium voltage equipment  
     * Testing and commissioning of electrical equipments 
     * Document preparation and project planning
+    
+* Telecommunication Engineer (Mar 2011 - Nov 2011):
+  * Boral Corporation Co., Ltd, Cambodia 
+  * Duties Included:
+    * Study Configuration of Huawei DBS3900 System 
+    * Study and design location of GSM Antennas and Microwaves (AutoCAD drawing)  
+    * Document preparation 
 
-* A volunteer Reviewer (2020):
-  * [Journal of Australasian Physical and Sciences in Medicine](https://portal.issn.org/resource/ISSN/0158-9938)
+PROFESSIONAL ACTIVITIES
+======
+* Reviewer (Sept 2020):
+  * Journal: [Australasian Physical and Sciences in Medicine](https://portal.issn.org/resource/ISSN/0158-9938)
 
-* Invited lecturer (September 15-16, 2021):
+* Invited lecturer (Sept 15-16, 2021):
   * [Institute of Technology of Cambodia](https://www.itc.edu.kh/)
   * Visual Lecture: [Machine Learning and Computer Vision](https://synasreng.github.io/teaching/)
 
-Projects
+Research Projects
 ======
-* Medical Image Analysis using Image Segmentation and Machine Learning
-  * Detection of Diabetic Retinopathy Lesions on Fundus Images
-    * Exudates detection in fundus images using image segmentation, 2012-2013
-    * Hemorrages detection in fundus images using image segmentation, 2015-2016
-    * Microaneurysms detection in fundus images using image segmentation, 2016-2017
-    * Cotton Wool Spots detection using image segmentatin and machine learning, 2017-2018
-    * Classification of diabetic retinopathy using machine learning, 2017-2018
-    * Grading of diabetic retinopathy using deep learning, 2018
-  * Optic Disc Segmentation and Glaucoma Diagnosis using Deep Learning on Fundus Images, 2019-2020
-  * Diagnosis of Multi-class Eye Diseases Classification using Ensemble Deep Learning on Fundus Images, 2021 - Present
-  * Detection of Infectious Diseases on Chest X-rays
-    * AI for detection of Tuberculosis, 2019 - Present
-    * COVID-19 detection using deep learning, 2021 - Present
+* Multi-class Ocular Disease Classification using Deep Learning on Retinal Fundus Images, KMITL (2021 - Present)
+  * Developing hybrid learning models of convolutional neural networks
+  * Attention-guided deep convolutional neural networks
+* Optic Disc Segmentation and Glaucoma Diagnosis using Deep Learning on Retinal Fundus Images, KMITL (2019 - 2020)
+  * Deep semantic segmentation algorithms for accurate segmentation of optic disc
+  * Comparison of hand-engineered features, deep-activated features, and end-to-end deep convolutional neural networks
+  * Ensemble learning of convolutional neural networks and conventional machine learning methods
+* Detection of Infectious Lung Diseases on Chest X-rays, KMITL (2019 - Present)
+  * AI for detection of tuberculosis
+  * Deep learning for detection of COVID-19 on an unbalanced dataset
+* Image Analysis Algorithms for Diagnosis of Diabetic Retinopathy on Retinal Fundus Images, KMITL AND TOKAI UNIVERSITY (2012 - 2019)
+  * Severity grading of diabetic retinopathy using deep learning (2018)
+  * Automated screening of diabetic retinopathy using machine learning (2017-2018)
+  * Cotton wool spots detection using ant colony optimization and machine learning (2017-2018)
+  * Microaneurysms detection in fundus images using image segmentation (2016-2017)
+  * Hemorrhages detection in fundus images using image segmentation (2015-2016)
+  * Exudates detection using maximum entropy thresholding and morphology analysis (2012-2013)
 
-Skills
+Skills and Interests
 ======
+* Research Skills and Interests
+  * Image Processing, Medical Image Analysis, Machine Learning, Deep Learning, Data Preprocessing, Data Visualization, Data Analysis
 * Programming Skills
-  * Matlab
-  * Python
+  * Matlab and Python
+* Tools and Packages
+  * Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit-learn, Keras, Tensorflow, Pytorch, Git, Github
 * Language Skills
-  * Khmer: Mother tongue
-  * English: Very good
-  * Thai: basic 
-* Strong analytical skills with a demonstrated history of working in the higher education industry 
-* Experience in development and implementation of machine learning, deep learning and computer vision frameworks for various medical image processing projects. 
+  * Khmer – Native proficiency
+  * English – Professional working proficiency
+  * Thai – Limited working proficiency 
 
 Publications
 ======
