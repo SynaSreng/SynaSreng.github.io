@@ -29,9 +29,9 @@ Education
 
 Awards
 ======    
-* Fully-Funded Ph.D. Scholarship [AUN-Seed Net, JICA](https://seed-net.org/), 2015 - 2018
+* Fully-Funded Ph.D. Scholarship, [AUN-Seed Net, JICA](https://seed-net.org/), 2015 - 2018
   * Sandwich Ph.D. program under the joint supervision of professors from KMITL and Tokai University
-* Fully-Funded Master Degree Scholarship [AUN-Seed Net, JICA](https://seed-net.org/), 2011 - 2013  
+* Fully-Funded Master Degree Scholarship, [AUN-Seed Net, JICA](https://seed-net.org/), 2011 - 2013  
   * Graduate degree scholarship at International College, KMITL 
 
 Work experience
