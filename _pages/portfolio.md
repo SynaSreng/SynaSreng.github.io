@@ -10,7 +10,7 @@ You can also find my projects on [ my Github](https://github.com/synasreng)<br/>
 This Github repository demonstrates fine-tuning deep convolutional neural networks for classification of retinal diseases on OCT images\
 Project Link [here](https://github.com/synasreng/multi_retinalOCT_deeplearning)<br/>
 
-[Hybrid Learning of Hand-Crafted and Deep-Activated Features Using Particle Swarm Optimization and Optimized Support Vector Machine for Tuberculosis Screening](https://doi.org/10.3390/app10175749)\
-Khin Yadanar Win, Noppadol Maneerat, Kazuhiko Hamamoto and Syna Sreng,Applied Sciences, 2020, 10(17), p.5749.\
-Download [here](https://doi.org/10.3390/app10175749)<br/> 
+[Ensemble-Deep-Learning-for-the-Detection-of-COVID-19-in-Unbalanced-Chest-X-ray-Dataset](https://doi.org/10.3390/app112210528)\
+This GitHub repository serves as the source code for a published paper in  https://doi.org/10.3390/app112210528
+Project Link [here](https://github.com/synasreng/X-rays_ensemble_deeplearning)<br/>
 
