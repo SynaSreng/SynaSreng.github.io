@@ -3,5 +3,12 @@ title: "Portfolio 1"
 excerpt: "Coming soon... <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+You can also find my projects on [ my Github](https://github.com/synasreng)<br/>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Multi-classification of Ocular Diseases on OCT images using Deep Convolutional Neural Network](https://github.com/synasreng/multi_retinalOCT_deeplearning)\
+This Github repository demonstrates fine-tuning deep convolutional neural networks for classification of retinal diseases on OCT images\
+Project Link [here](https://github.com/synasreng/multi_retinalOCT_deeplearning)<br/>
+
+[Ensemble Deep Learning for the Detection of COVID-19 in Unbalanced Chest X-ray Dataset](https://doi.org/10.3390/app112210528)\
+This GitHub repository serves as the source code for a published paper in  https://doi.org/10.3390/app112210528 \
+Project Link [here](https://github.com/synasreng/X-rays_ensemble_deeplearning)<br/>
